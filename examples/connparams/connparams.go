@@ -6,7 +6,7 @@ import (
 	"net/url"
 	"os"
 
-	"github.com/nlopes/slack"
+	"github.com/pacificporter/slack"
 )
 
 func main() {
